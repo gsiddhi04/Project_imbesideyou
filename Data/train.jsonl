@@ -1,0 +1,132 @@
+{"input": "Had 2 chapatis, 1 cup dal, and salad for lunch.", "output": "Calories: 520 kcal; Protein: 16 g; Carbs: 80 g; Fat: 10 g; Insight: Balanced meal with good fiber and moderate protein."}
+{"input": "Ate maggi and tea at midnight while studying.", "output": "Calories: 400 kcal; Protein: 8 g; Carbs: 55 g; Fat: 14 g; Insight: High carbs and late-night caffeine may affect sleep; replace with oats or fruits during exams."}
+{"input": "Breakfast: poha with peanuts and chai.", "output": "Calories: 380 kcal; Protein: 10 g; Carbs: 55 g; Fat: 12 g; Insight: Light breakfast rich in carbs; good for energy but add fruit for micronutrients."}
+{"input": "Lunch was rice, rajma, and curd.", "output": "Calories: 650 kcal; Protein: 22 g; Carbs: 95 g; Fat: 15 g; Insight: Great protein and fiber content; good for sustained energy."}
+{"input": "Had only coffee and biscuits before the exam.", "output": "Calories: 250 kcal; Protein: 3 g; Carbs: 40 g; Fat: 9 g; Insight: Insufficient nutrients; add banana or nuts for stable focus during exams."}
+{"input": "Dinner: paneer curry, 2 rotis, and buttermilk.", "output": "Calories: 600 kcal; Protein: 24 g; Carbs: 70 g; Fat: 18 g; Insight: High-protein dinner with balanced macros."}
+{"input": "Ate two samosas and soft drink.", "output": "Calories: 500 kcal; Protein: 6 g; Carbs: 45 g; Fat: 30 g; Insight: Fried snack high in fat and sodium; limit intake during study weeks."}
+{"input": "Had banana and a glass of milk before sleeping.", "output": "Calories: 220 kcal; Protein: 9 g; Carbs: 28 g; Fat: 7 g; Insight: Excellent night snack for better sleep and recovery."}
+{"input": "Exam day lunch: rice, dal, and paneer.", "output": "Calories: 720 kcal; Protein: 26 g; Carbs: 90 g; Fat: 20 g; Insight: Perfect balanced meal for focus and steady energy."}
+{"input": "Skipped breakfast, had coffee only.", "output": "Calories: 120 kcal; Protein: 2 g; Carbs: 5 g; Fat: 10 g; Insight: Skipping breakfast lowers concentration; include oats or fruit next time."}
+{"input": "Had idli and sambar for breakfast.", "output": "Calories: 350 kcal; Protein: 12 g; Carbs: 55 g; Fat: 8 g; Insight: Low fat, easily digestible; great pre-exam breakfast."}
+{"input": "Lunch: biryani with raita.", "output": "Calories: 850 kcal; Protein: 28 g; Carbs: 100 g; Fat: 32 g; Insight: Heavy meal; avoid during study hours to prevent sluggishness."}
+{"input": "Evening snack: apple and green tea.", "output": "Calories: 100 kcal; Protein: 1 g; Carbs: 24 g; Fat: 0 g; Insight: Perfect light snack for antioxidants and hydration."}
+{"input": "Had 3 dosas with chutney.", "output": "Calories: 480 kcal; Protein: 10 g; Carbs: 70 g; Fat: 14 g; Insight: Filling meal; add sambar for better protein balance."}
+{"input": "Drank two cups of coffee and slept 4 hours.", "output": "Calories: 200 kcal; Protein: 2 g; Carbs: 20 g; Fat: 10 g; Insight: High caffeine and poor sleep; can hurt focus during exams."}
+{"input": "Ate aloo paratha with curd.", "output": "Calories: 500 kcal; Protein: 12 g; Carbs: 60 g; Fat: 18 g; Insight: Comfort food but heavy; add fruit to balance fiber."}
+{"input": "Lunch: mixed vegetable curry, 2 chapatis, and rice.", "output": "Calories: 640 kcal; Protein: 18 g; Carbs: 95 g; Fat: 14 g; Insight: Nutritious meal with good carbs and vitamins."}
+{"input": "Snack: handful of almonds and one banana.", "output": "Calories: 250 kcal; Protein: 6 g; Carbs: 24 g; Fat: 14 g; Insight: Great brain snack; good for memory and focus."}
+{"input": "Exam night: ate instant noodles and chips.", "output": "Calories: 550 kcal; Protein: 9 g; Carbs: 60 g; Fat: 28 g; Insight: High fat and sodium; replace with boiled eggs or fruits."}
+{"input": "Breakfast: 2 boiled eggs and toast.", "output": "Calories: 300 kcal; Protein: 20 g; Carbs: 25 g; Fat: 10 g; Insight: Excellent protein-rich start to the day."}
+{"input": "Had fried rice and manchurian for lunch.", "output": "Calories: 780 kcal; Protein: 18 g; Carbs: 100 g; Fat: 28 g; Insight: High oil content; limit portion during exams to stay alert."}
+{"input": "Skipped dinner, just drank tea.", "output": "Calories: 100 kcal; Protein: 0 g; Carbs: 12 g; Fat: 5 g; Insight: Skipping meals weakens focus; have light soup or fruit next time."}
+{"input": "Lunch: dal chawal and salad.", "output": "Calories: 550 kcal; Protein: 18 g; Carbs: 85 g; Fat: 9 g; Insight: Simple and wholesome; ideal for consistent energy."}
+{"input": "Evening snack: peanut butter sandwich.", "output": "Calories: 400 kcal; Protein: 15 g; Carbs: 35 g; Fat: 18 g; Insight: Excellent protein-carb balance for sustained energy."}
+{"input": "Ate chole bhature for lunch.", "output": "Calories: 850 kcal; Protein: 20 g; Carbs: 100 g; Fat: 35 g; Insight: Heavy and oily meal; limit frequency during exams."}
+{"input": "Dinner: khichdi and curd.", "output": "Calories: 480 kcal; Protein: 15 g; Carbs: 75 g; Fat: 10 g; Insight: Comforting and light; promotes good digestion and sleep."}
+{"input": "Had bread omelette and milk.", "output": "Calories: 380 kcal; Protein: 22 g; Carbs: 30 g; Fat: 14 g; Insight: Great balance of protein and energy for breakfast."}
+{"input": "Exam week breakfast: oats with banana and honey.", "output": "Calories: 420 kcal; Protein: 12 g; Carbs: 68 g; Fat: 8 g; Insight: Excellent slow-energy meal for focus."}
+{"input": "Lunch: curd rice and papad.", "output": "Calories: 520 kcal; Protein: 14 g; Carbs: 80 g; Fat: 12 g; Insight: Good probiotic meal; low in protein — add dal next time."}
+{"input": "Had smoothie with milk, banana, and peanut butter.", "output": "Calories: 450 kcal; Protein: 18 g; Carbs: 50 g; Fat: 15 g; Insight: Energy-dense and ideal for busy mornings."}
+{"input": "Drank energy drink and chips before studying.", "output": "Calories: 300 kcal; Protein: 2 g; Carbs: 40 g; Fat: 14 g; Insight: High sugar and sodium; replace with nuts or fruit yogurt."}
+{"input": "Dinner: vegetable pulao and raita.", "output": "Calories: 600 kcal; Protein: 16 g; Carbs: 90 g; Fat: 15 g; Insight: Balanced dinner; good for digestion."}
+{"input": "Lunch: 1 bowl dal, 1 bowl rice, 1 roti, salad.", "output": "Calories: 650 kcal; Protein: 20 g; Carbs: 95 g; Fat: 10 g; Insight: Ideal lunch; rich in complex carbs and fiber."}
+{"input": "Exam day snack: dark chocolate and milk.", "output": "Calories: 280 kcal; Protein: 8 g; Carbs: 35 g; Fat: 12 g; Insight: Great brain booster for quick energy and mood."}
+{"input": "Ate pav bhaji and cola.", "output": "Calories: 700 kcal; Protein: 14 g; Carbs: 95 g; Fat: 25 g; Insight: Heavy in oil and sugar; limit portion sizes."}
+{"input": "Had soup and bread for dinner.", "output": "Calories: 320 kcal; Protein: 10 g; Carbs: 40 g; Fat: 8 g; Insight: Light and hydrating; perfect for late-night study dinners."}
+{"input": "Breakfast: cornflakes with milk.", "output": "Calories: 350 kcal; Protein: 12 g; Carbs: 55 g; Fat: 8 g; Insight: Fast and simple breakfast; add fruit for more nutrients."}
+{"input": "Lunch: dal, sabzi, and roti.", "output": "Calories: 580 kcal; Protein: 18 g; Carbs: 80 g; Fat: 12 g; Insight: Healthy homemade meal; maintain portion control."}
+{"input": "Evening: biscuits and black coffee.", "output": "Calories: 220 kcal; Protein: 2 g; Carbs: 30 g; Fat: 10 g; Insight: Too much caffeine and sugar; switch to nuts or fruit."}
+{"input": "Had curd, rice, and pickle for lunch.", "output": "Calories: 500 kcal; Protein: 15 g; Carbs: 80 g; Fat: 8 g; Insight: Cooling and probiotic; low protein — add dal next time."}
+{"input": "Dinner: paneer tikka and salad.", "output": "Calories: 420 kcal; Protein: 26 g; Carbs: 20 g; Fat: 22 g; Insight: Excellent protein-heavy dinner; great for muscle recovery."}
+{"input": "Exam week dinner: dal soup and banana.", "output": "Calories: 300 kcal; Protein: 12 g; Carbs: 40 g; Fat: 6 g; Insight: Light but nourishing meal to aid concentration."}
+{"input": "Breakfast: sandwich with cheese and tomato.", "output": "Calories: 350 kcal; Protein: 14 g; Carbs: 40 g; Fat: 12 g; Insight: Good carb-protein combo; avoid excess cheese."}
+{"input": "Lunch: lemon rice and vegetable curry.", "output": "Calories: 560 kcal; Protein: 14 g; Carbs: 85 g; Fat: 14 g; Insight: Flavorful and satisfying; add curd for better nutrition."}
+{"input": "Exam night: 2 cups coffee and chocolate bar.", "output": "Calories: 350 kcal; Protein: 4 g; Carbs: 45 g; Fat: 15 g; Insight: Quick energy but low nutrition; replace with banana or nuts."}
+{"input": "Dinner: roti, dal, and sabzi.", "output": "Calories: 550 kcal; Protein: 18 g; Carbs: 80 g; Fat: 10 g; Insight: Perfect balanced dinner for sustained energy."}
+{"input": "Snack: fruit salad with yogurt.", "output": "Calories: 180 kcal; Protein: 6 g; Carbs: 30 g; Fat: 4 g; Insight: Low-calorie, nutrient-rich snack — great for exams."}
+{"input": "Lunch: noodles and cold drink.", "output": "Calories: 650 kcal; Protein: 12 g; Carbs: 90 g; Fat: 20 g; Insight: High sodium and sugar; avoid frequent intake."}
+{"input": "Breakfast: upma and milk.", "output": "Calories: 400 kcal; Protein: 14 g; Carbs: 55 g; Fat: 10 g; Insight: Balanced breakfast; supports steady energy release."}
+{"input": "Dinner: rice, dal, and paneer.", "output": "Calories: 720 kcal; Protein: 25 g; Carbs: 90 g; Fat: 20 g; Insight: Nutritious and filling; ideal post-study meal."}
+{"input": "Exam week lunch: 2 boiled eggs, fruit, and green tea.", "output": "Calories: 300 kcal; Protein: 16 g; Carbs: 20 g; Fat: 10 g; Insight: Excellent light protein meal for alertness and focus."}
+{"input": "Had 1 bowl vegetable oats with milk for breakfast.", "output": "Calories: 400 kcal; Protein: 14 g; Carbs: 55 g; Fat: 10 g; Insight: Fiber-rich breakfast that keeps you full and focused."}
+{"input": "Lunch: 2 rotis, dal, sabzi, and curd.", "output": "Calories: 650 kcal; Protein: 20 g; Carbs: 90 g; Fat: 14 g; Insight: Well-balanced Indian meal rich in protein and probiotics."}
+{"input": "Evening: tea with pakoras.", "output": "Calories: 480 kcal; Protein: 8 g; Carbs: 45 g; Fat: 28 g; Insight: High in fat; limit deep-fried snacks during study periods."}
+{"input": "Dinner: plain rice with mixed dal and spinach.", "output": "Calories: 580 kcal; Protein: 18 g; Carbs: 85 g; Fat: 10 g; Insight: Balanced and iron-rich; ideal for light dinners."}
+{"input": "Breakfast: peanut butter toast and banana.", "output": "Calories: 420 kcal; Protein: 12 g; Carbs: 55 g; Fat: 14 g; Insight: Excellent pre-class energy meal."}
+{"input": "Had veg sandwich and orange juice.", "output": "Calories: 380 kcal; Protein: 10 g; Carbs: 60 g; Fat: 8 g; Insight: Fresh and energizing snack; good for mid-morning hunger."}
+{"input": "Lunch: rajma chawal and salad.", "output": "Calories: 640 kcal; Protein: 22 g; Carbs: 90 g; Fat: 12 g; Insight: Great source of fiber and complex carbs."}
+{"input": "Dinner: grilled paneer and vegetable soup.", "output": "Calories: 400 kcal; Protein: 24 g; Carbs: 25 g; Fat: 14 g; Insight: Protein-rich and light; supports muscle recovery."}
+{"input": "Had 2 parathas with butter and pickle.", "output": "Calories: 700 kcal; Protein: 14 g; Carbs: 90 g; Fat: 25 g; Insight: Comforting but high in fat; add curd to balance."}
+{"input": "Breakfast: poha with peas and lemon.", "output": "Calories: 350 kcal; Protein: 9 g; Carbs: 60 g; Fat: 8 g; Insight: Great light breakfast; add fruit for vitamins."}
+{"input": "Evening: coffee and chocolate cookie.", "output": "Calories: 250 kcal; Protein: 3 g; Carbs: 35 g; Fat: 12 g; Insight: Sweet treat; keep occasional to avoid sugar spikes."}
+{"input": "Lunch: 3 chapatis, dal fry, and salad.", "output": "Calories: 600 kcal; Protein: 18 g; Carbs: 85 g; Fat: 10 g; Insight: Balanced meal with good satiety value."}
+{"input": "Dinner: veg pulao and curd.", "output": "Calories: 550 kcal; Protein: 15 g; Carbs: 85 g; Fat: 10 g; Insight: Comforting meal; suitable for late-night digestion."}
+{"input": "Breakfast: dosa with sambar and chutney.", "output": "Calories: 420 kcal; Protein: 12 g; Carbs: 60 g; Fat: 12 g; Insight: Good blend of carbs and protein; avoid excess oil."}
+{"input": "Lunch: rice, dal, and aloo gobi.", "output": "Calories: 580 kcal; Protein: 16 g; Carbs: 90 g; Fat: 10 g; Insight: Light home-style meal; add salad for fiber."}
+{"input": "Had milkshake and samosa in the evening.", "output": "Calories: 600 kcal; Protein: 10 g; Carbs: 70 g; Fat: 28 g; Insight: High sugar and fat combo; replace with fruit smoothie."}
+{"input": "Dinner: chapati, dal, and paneer bhurji.", "output": "Calories: 620 kcal; Protein: 26 g; Carbs: 75 g; Fat: 15 g; Insight: Protein-rich meal; great for muscle maintenance."}
+{"input": "Breakfast: cornflakes, milk, and apple.", "output": "Calories: 380 kcal; Protein: 12 g; Carbs: 60 g; Fat: 8 g; Insight: Light and quick; good pre-class breakfast."}
+{"input": "Lunch: khichdi with curd.", "output": "Calories: 500 kcal; Protein: 14 g; Carbs: 80 g; Fat: 8 g; Insight: Easy on digestion; good for low-stress days."}
+{"input": "Evening: banana smoothie with oats.", "output": "Calories: 350 kcal; Protein: 12 g; Carbs: 55 g; Fat: 8 g; Insight: Great fiber source and filling snack."}
+{"input": "Dinner: 2 rotis, rajma, and salad.", "output": "Calories: 580 kcal; Protein: 20 g; Carbs: 85 g; Fat: 10 g; Insight: Fiber and protein balanced; great for students."}
+{"input": "Breakfast: idli with coconut chutney.", "output": "Calories: 320 kcal; Protein: 10 g; Carbs: 50 g; Fat: 8 g; Insight: Light and gut-friendly start to the day."}
+{"input": "Lunch: chana masala, rice, and salad.", "output": "Calories: 640 kcal; Protein: 22 g; Carbs: 90 g; Fat: 12 g; Insight: Protein and fiber-rich; boosts satiety."}
+{"input": "Evening: tea and digestive biscuits.", "output": "Calories: 200 kcal; Protein: 2 g; Carbs: 30 g; Fat: 8 g; Insight: Simple but low-nutrient; replace with fruit next time."}
+{"input": "Dinner: roti, bhindi sabzi, and curd.", "output": "Calories: 500 kcal; Protein: 15 g; Carbs: 75 g; Fat: 10 g; Insight: Balanced, low-oil dinner for good digestion."}
+{"input": "Breakfast: upma with peanuts.", "output": "Calories: 370 kcal; Protein: 10 g; Carbs: 55 g; Fat: 10 g; Insight: Fiber-rich breakfast; helps maintain energy."}
+{"input": "Lunch: dal tadka, rice, papad, and salad.", "output": "Calories: 640 kcal; Protein: 18 g; Carbs: 95 g; Fat: 12 g; Insight: Simple and nutritious lunch combo."}
+{"input": "Evening: green tea and roasted chana.", "output": "Calories: 180 kcal; Protein: 8 g; Carbs: 20 g; Fat: 6 g; Insight: Perfect healthy study snack."}
+{"input": "Dinner: vegetable soup and toast.", "output": "Calories: 250 kcal; Protein: 8 g; Carbs: 35 g; Fat: 6 g; Insight: Light and hydrating; perfect before bedtime."}
+{"input": "Breakfast: paratha with curd and pickle.", "output": "Calories: 480 kcal; Protein: 12 g; Carbs: 60 g; Fat: 18 g; Insight: Comforting but moderate fat content."}
+{"input": "Lunch: paneer butter masala and naan.", "output": "Calories: 850 kcal; Protein: 28 g; Carbs: 100 g; Fat: 30 g; Insight: Tasty but heavy; limit frequency."}
+{"input": "Evening: coffee with banana.", "output": "Calories: 180 kcal; Protein: 3 g; Carbs: 35 g; Fat: 3 g; Insight: Quick energy boost; avoid caffeine late evening."}
+{"input": "Dinner: dal, rice, and lauki sabzi.", "output": "Calories: 520 kcal; Protein: 16 g; Carbs: 85 g; Fat: 8 g; Insight: Light and nutritious; supports good sleep."}
+{"input": "Breakfast: oats with apple and cinnamon.", "output": "Calories: 380 kcal; Protein: 10 g; Carbs: 60 g; Fat: 8 g; Insight: Excellent fiber breakfast; keeps you full."}
+{"input": "Lunch: roti, sabzi, dal, and rice.", "output": "Calories: 680 kcal; Protein: 20 g; Carbs: 95 g; Fat: 14 g; Insight: Great balanced Indian meal."}
+{"input": "Evening snack: sprouts salad.", "output": "Calories: 150 kcal; Protein: 9 g; Carbs: 20 g; Fat: 3 g; Insight: High-protein and refreshing; ideal study snack."}
+{"input": "Dinner: vegetable biryani with curd.", "output": "Calories: 650 kcal; Protein: 18 g; Carbs: 95 g; Fat: 15 g; Insight: Flavorful and filling; eat early for better digestion."}
+{"input": "Breakfast: banana and peanut butter smoothie.", "output": "Calories: 420 kcal; Protein: 14 g; Carbs: 55 g; Fat: 12 g; Insight: Excellent pre-workout meal."}
+{"input": "Lunch: aloo matar with chapati.", "output": "Calories: 580 kcal; Protein: 15 g; Carbs: 85 g; Fat: 12 g; Insight: Balanced but moderate starch; add salad for fiber."}
+{"input": "Evening: green tea and trail mix.", "output": "Calories: 200 kcal; Protein: 6 g; Carbs: 20 g; Fat: 8 g; Insight: Great healthy snack with protein and good fats."}
+{"input": "Dinner: curd rice and bhindi fry.", "output": "Calories: 540 kcal; Protein: 15 g; Carbs: 80 g; Fat: 12 g; Insight: Comforting and cooling; good night meal."}
+{"input": "Breakfast: boiled eggs and orange juice.", "output": "Calories: 300 kcal; Protein: 18 g; Carbs: 25 g; Fat: 10 g; Insight: Protein-rich and refreshing breakfast."}
+{"input": "Lunch: dal makhani and 2 chapatis.", "output": "Calories: 600 kcal; Protein: 20 g; Carbs: 80 g; Fat: 14 g; Insight: High-protein meal; suitable for lunch."}
+{"input": "Evening snack: puffed rice chaat.", "output": "Calories: 200 kcal; Protein: 5 g; Carbs: 35 g; Fat: 5 g; Insight: Light and low-fat snack; great for focus."}
+{"input": "Dinner: moong dal khichdi and salad.", "output": "Calories: 480 kcal; Protein: 14 g; Carbs: 75 g; Fat: 8 g; Insight: Great for digestion and relaxation."}
+{"input": "Breakfast: oats pancakes with honey.", "output": "Calories: 400 kcal; Protein: 12 g; Carbs: 60 g; Fat: 10 g; Insight: Balanced and energizing breakfast."}
+{"input": "Lunch: roti, chole, and salad.", "output": "Calories: 640 kcal; Protein: 20 g; Carbs: 90 g; Fat: 12 g; Insight: Excellent balance of protein and fiber."}
+{"input": "Evening: fruit yogurt.", "output": "Calories: 180 kcal; Protein: 6 g; Carbs: 25 g; Fat: 5 g; Insight: Light and probiotic-rich; great for gut health."}
+{"input": "Dinner: rice, dal, and mixed sabzi.", "output": "Calories: 550 kcal; Protein: 18 g; Carbs: 85 g; Fat: 10 g; Insight: Nutritious everyday meal; great post-study dinner."}
+{"input": "Breakfast: idli, sambar, and fruit.", "output": "Calories: 420 kcal; Protein: 12 g; Carbs: 65 g; Fat: 8 g; Insight: Balanced and energizing breakfast."}
+{"input": "Lunch: vegetable fried rice.", "output": "Calories: 650 kcal; Protein: 14 g; Carbs: 90 g; Fat: 18 g; Insight: Filling but high oil content; pair with salad."}
+{"input": "Evening: tea and roasted peanuts.", "output": "Calories: 220 kcal; Protein: 8 g; Carbs: 20 g; Fat: 10 g; Insight: Great snack; provides good fats and protein."}
+{"input": "Dinner: chapati, palak paneer, and curd.", "output": "Calories: 600 kcal; Protein: 25 g; Carbs: 70 g; Fat: 14 g; Insight: Iron and protein-rich dinner; excellent choice."}
+{"input": "Breakfast: muesli with milk and banana.", "output": "Calories: 400 kcal; Protein: 14 g; Carbs: 60 g; Fat: 8 g; Insight: Nutritious and quick breakfast option."}
+{"input": "Lunch: lemon rice and dal fry.", "output": "Calories: 600 kcal; Protein: 18 g; Carbs: 90 g; Fat: 10 g; Insight: Balanced but slightly high in carbs; good for active days."}
+{"input": "Dinner: oats soup and salad.", "output": "Calories: 300 kcal; Protein: 10 g; Carbs: 40 g; Fat: 6 g; Insight: Light and ideal for late dinners."}
+{"input": "Had oats with apple and cinnamon for breakfast.", "output": "Calories: 350 kcal; Protein: 10 g; Carbs: 60 g; Fat: 6 g; Insight: Excellent fiber-rich meal; great for digestion and focus."}
+{"input": "Lunch: egg curry with 2 rotis and salad.", "output": "Calories: 600 kcal; Protein: 25 g; Carbs: 70 g; Fat: 15 g; Insight: Great protein-rich lunch for muscle recovery."}
+{"input": "Dinner: grilled fish and brown rice.", "output": "Calories: 520 kcal; Protein: 30 g; Carbs: 45 g; Fat: 16 g; Insight: Excellent lean protein; promotes better sleep quality."}
+{"input": "Evening snack: popcorn and lemonade.", "output": "Calories: 220 kcal; Protein: 5 g; Carbs: 40 g; Fat: 5 g; Insight: Light and healthy; avoid too much salt."}
+{"input": "Had a burger and fries for lunch.", "output": "Calories: 900 kcal; Protein: 25 g; Carbs: 95 g; Fat: 45 g; Insight: High in trans fats; limit to once a week."}
+{"input": "Breakfast: smoothie with spinach, banana, and milk.", "output": "Calories: 300 kcal; Protein: 12 g; Carbs: 40 g; Fat: 8 g; Insight: Great energy-boosting and vitamin-rich breakfast."}
+{"input": "Dinner: dal khichdi and papad.", "output": "Calories: 480 kcal; Protein: 14 g; Carbs: 70 g; Fat: 12 g; Insight: Easy-to-digest comfort food; ideal for light dinner."}
+{"input": "Ate pastries and cold coffee.", "output": "Calories: 600 kcal; Protein: 8 g; Carbs: 85 g; Fat: 22 g; Insight: High sugar intake; limit to occasional treat."}
+{"input": "Had cucumber and lemon water before breakfast.", "output": "Calories: 20 kcal; Protein: 0 g; Carbs: 4 g; Fat: 0 g; Insight: Great detox habit; boosts hydration."}
+{"input": "Lunch: methi paratha and curd.", "output": "Calories: 500 kcal; Protein: 16 g; Carbs: 70 g; Fat: 12 g; Insight: Nutritious and fiber-rich meal."}
+{"input": "Snack: energy bar and black coffee.", "output": "Calories: 220 kcal; Protein: 8 g; Carbs: 25 g; Fat: 9 g; Insight: Decent pre-study snack; hydrate well afterward."}
+{"input": "Breakfast: idli, sambar, and filter coffee.", "output": "Calories: 420 kcal; Protein: 14 g; Carbs: 60 g; Fat: 10 g; Insight: Great combination of carbs and protein; light on stomach."}
+{"input": "Dinner: roti, bhindi sabzi, and dal.", "output": "Calories: 560 kcal; Protein: 18 g; Carbs: 80 g; Fat: 12 g; Insight: Excellent nutrient balance; supports restful sleep."}
+{"input": "Lunch: rajma chawal with salad.", "output": "Calories: 670 kcal; Protein: 22 g; Carbs: 100 g; Fat: 14 g; Insight: High-fiber and protein-packed meal; great for students."}
+{"input": "Evening snack: sprouts chaat.", "output": "Calories: 180 kcal; Protein: 12 g; Carbs: 20 g; Fat: 4 g; Insight: Rich in vitamins and protein; ideal during exams."}
+{"input": "Had pizza and cold drink for dinner.", "output": "Calories: 950 kcal; Protein: 28 g; Carbs: 110 g; Fat: 40 g; Insight: Heavy in calories and sodium; avoid before sleep."}
+{"input": "Breakfast: dosa with chutney and sambar.", "output": "Calories: 400 kcal; Protein: 12 g; Carbs: 60 g; Fat: 10 g; Insight: Healthy breakfast; add fruit for more fiber."}
+{"input": "Lunch: vegetable biryani and curd.", "output": "Calories: 640 kcal; Protein: 16 g; Carbs: 95 g; Fat: 18 g; Insight: Balanced meal; good choice for active days."}
+{"input": "Dinner: soup and grilled sandwich.", "output": "Calories: 380 kcal; Protein: 14 g; Carbs: 50 g; Fat: 10 g; Insight: Light and satisfying evening meal."}
+{"input": "Had lassi and samosa as snack.", "output": "Calories: 500 kcal; Protein: 10 g; Carbs: 55 g; Fat: 25 g; Insight: Occasional treat; avoid regular fried food."}
+{"input": "Breakfast: paratha with butter and pickle.", "output": "Calories: 600 kcal; Protein: 10 g; Carbs: 70 g; Fat: 25 g; Insight: High in fat; pair with curd to balance nutrition."}
+{"input": "Lunch: dal fry, jeera rice, and salad.", "output": "Calories: 600 kcal; Protein: 20 g; Carbs: 85 g; Fat: 12 g; Insight: Simple, wholesome meal; excellent for busy students."}
+{"input": "Dinner: paneer roll and buttermilk.", "output": "Calories: 540 kcal; Protein: 22 g; Carbs: 60 g; Fat: 18 g; Insight: Protein-rich, convenient meal option."}
+{"input": "Snack: banana, nuts, and green tea.", "output": "Calories: 230 kcal; Protein: 6 g; Carbs: 30 g; Fat: 10 g; Insight: Great brain snack; enhances focus and memory."}
+{"input": "Ate noodles and soup for dinner.", "output": "Calories: 520 kcal; Protein: 15 g; Carbs: 75 g; Fat: 12 g; Insight: Quick meal but high in sodium; use less oil next time."}
